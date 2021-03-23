@@ -1,10 +1,12 @@
-
-firebase.initializeApp({
-    apiKey: "AIzaSyCe_nmH6eo8xGZf59KIRyoo61kn70_iYKg",
-    authDomain: "autentifica43kus.firebaseapp.com",
-    projectId: "autentifica43kus",
-    storageBucket: "autentifica43kus.appspot.com",
-    messagingSenderId: "633947480746", 
-    appId: "1:633947480746:web:523dc3ea40aeb8126226d3",
-    measurementId: "G-HQDYRME0DZ"
-  });
+/* Initializa Firebase con la configuración del proyecto. Revisar la
+ * configuración en tu servidor de Firebase.  */
+// @ts-ignorar
+base de incendios. initializeApp({
+    apiKey: "AIzaSyACOdn5F7TfsKlqKbbKQsBLasrpuaedg8E",
+    authDomain: "autentifica43kusn-d1305.firebaseapp.com",
+    projectId: "autentifica43kusn-d1305",
+    storageBucket: "autentifica43kusn-d1305.appspot.com",
+    messagingSenderId: "875384527280",
+    appId: "1:875384527280:web:dfda74118d6ce85df51e75",
+    measurementId: "G-HW4Q24BR26"
+});
