@@ -1,1 +1,4 @@
 
+firebase.initializeApp({
+   
+    });
